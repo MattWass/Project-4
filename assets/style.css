@@ -22,7 +22,7 @@ body {
 
 /* Style Header */
 header {
-    background-color: rgb(163, 210, 226);
+    background-color: rgb(113, 231, 143);
     padding: 20px;
     width: 100%;
     position: relative;
@@ -31,3 +31,9 @@ header {
     justify-content: space-between; 
     flex-wrap: wrap;
 }  
+
+header .text-center {
+    margin: 0;
+    text-align: center;
+    flex-grow: 1;
+}
