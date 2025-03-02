@@ -37,3 +37,29 @@ header .text-center {
     text-align: center;
     flex-grow: 1;
 }
+
+/* Style Nav links */
+#nav ul {
+    background-color: rgb(113, 231, 143);
+    letter-spacing: 1px;
+    list-style: none;
+    text-align: right;
+    padding: 10px 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#nav > li {
+    margin-left: 20px;
+}
+
+#nav a {
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+a:hover {
+    color: hsl(0, 14%, 4%);
+    text-decoration: underline;
+}
