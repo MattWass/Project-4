@@ -158,3 +158,24 @@ footer {
     justify-content: space-evenly;
     list-style: none;
 }
+
+/* Responsive Styles - Media Query for screens that are 980px and above */
+@media screen and (min-width: 768px) {
+    header {
+        flex-wrap: nowrap;
+    }
+    #nav {
+        height: 40px;
+        justify-content: flex-end;
+        width: auto;
+    }
+
+    #logo {
+        flex-grow: 1;
+    }
+
+    #header div {
+        width: 50%;
+    }
+
+}
