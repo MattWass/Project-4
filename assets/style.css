@@ -92,3 +92,23 @@ h3 {
     text-align: left;
     margin-bottom: 10px;
 }
+
+/* Paragraphs */
+p {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+/* Style Book Classes section */
+#bookclasses {
+    background-color: rgb(113, 231, 143);
+    margin-top: 50px;
+    padding: 20px;
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+    justify-content: center;
+}
