@@ -38,6 +38,13 @@ header .text-center {
     flex-grow: 1;
 }
 
+/* Style Image */
+header img {
+    max-width: 100%;
+    height: auto;
+    display: flex;
+}
+
 /* Style Nav links */
 #nav ul {
     background-color: rgb(158, 231, 176);
