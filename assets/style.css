@@ -22,7 +22,7 @@ body {
 
 /* Style Header */
 header {
-    background-color: rgb(113, 231, 143);
+    background-color: rgb(158, 231, 176);
     padding: 20px;
     width: 100%;
     position: relative;
@@ -40,7 +40,7 @@ header .text-center {
 
 /* Style Nav links */
 #nav ul {
-    background-color: rgb(113, 231, 143);
+    background-color: rgb(158, 231, 176);
     letter-spacing: 1px;
     list-style: none;
     text-align: right;
@@ -102,7 +102,7 @@ p {
 
 /* Style Book Classes section */
 #bookclasses {
-    background-color: rgb(113, 231, 143);
+    background-color: rgb(158, 231, 176);
     margin-top: 50px;
     padding: 20px;
     width: 100%;
