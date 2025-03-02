@@ -113,7 +113,7 @@ p {
     justify-content: center;
 }
 
-/* Style Sign Up form*/
+/* Style Booking form*/
 form {
     display: flex;
     flex-direction: column;
@@ -134,4 +134,12 @@ form input, form button {
 form input[type="email"], form input[type="password"] {
     border: 1px solid #ccc;
     border-radius: 5px;
+}
+
+form button {
+    background-color: rgb(189, 193, 194);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 }
